@@ -1,0 +1,12 @@
+.company-logo{
+    padding-left: 20px;
+    height: 20%;
+    width: 20%;
+}
+.recruitor-div-container{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,28 @@
+
+.contact-container {
+    
+    background: rgb(180, 104, 104);
+    
+    width: 100%;
+}
+.brief-wrapper{
+    background: rgb(112, 92, 92);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.contact-header {
+    
+    
+    margin-left: 30px;
+}
+.brief{
+    margin: 20px;
+    
+}
+.contact-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+

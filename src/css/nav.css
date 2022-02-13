@@ -1,0 +1,16 @@
+.navigation{
+    background: linear-gradient(to right,#f8f5f5,#a37777,#8a3d3b);
+    width: 100%;
+   
+}
+.nav-link,#nav-dropdown{ 
+    color: hsl(0, 100%, 1%);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+}
+
+.dont{
+    display: none;
+}
+
+

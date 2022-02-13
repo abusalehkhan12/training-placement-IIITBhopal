@@ -1,0 +1,23 @@
+.home-container{
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(19, 18, 18);
+    background-color: rgb(224, 209, 217);
+}
+.home-container h2{
+    font-size:3vw;
+}
+.home-container h4{
+    font-size:1vw;
+}
+.director-image
+{
+    height:10vw;
+    width:10vw;
+}
+.tpo-image{
+    height: 10vw;
+    width: 10vw;
+}
